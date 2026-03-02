@@ -1,4 +1,4 @@
-# 🦋 いちKaDo | Building my Vivarium
+# 🌹 いちKaDo | Building my Vivarium
 
 > **"In this dim little world I built, I'm still dreaming about myself over and over."** — *Ado, Vivarium*
 
@@ -30,10 +30,8 @@ The social media buzz is right—this is a masterpiece.
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiKaDo&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🌐 Let's Connect / 連絡先
-- **Twitter (X):** [@YourHandle]
 - **Language:** English (Professional) / Japanese(日本語)
