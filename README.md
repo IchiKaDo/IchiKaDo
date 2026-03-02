@@ -29,9 +29,4 @@ The social media buzz is right—this is a masterpiece.
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiKaDo&show_icons=true&theme=tokyonight)
-
----
-
 - **Language:** English (Professional) / Japanese(日本語)
