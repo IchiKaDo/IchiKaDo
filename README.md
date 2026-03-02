@@ -27,7 +27,7 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 
 ---
 
-**Where I can be contacted/other accounts**
+### Where I can be contacted/other accounts
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
