@@ -17,6 +17,9 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+**IDE & Other Tech Related Skills**
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
 *Status: Finishing React components and diving into Python for backend logic.*
 
 ---
