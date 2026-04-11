@@ -14,8 +14,9 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 **The Fullstack Evolution (Loading...)**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+*For now...*
 
 **IDE & Other Tech Related Things**
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -23,7 +24,7 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-*Status: Finishing React components and diving into Python for backend logic.*
+*Status: Finishing All Front-end Basics and Essentials*
 
 ---
 
@@ -35,6 +36,7 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#)
 
+*(No Actual links yet)*
 ---
 
 ### 🎧 Currently Looping: Vivarium (ビバリウム)
