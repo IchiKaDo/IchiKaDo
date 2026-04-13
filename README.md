@@ -8,7 +8,7 @@ I am a developer in evolution. Like the "closet" where Ado found her voice, I am
 
 ### 💻 The Tech Stack (Under Construction)
 
-**Frontend Mastery**
+**Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
